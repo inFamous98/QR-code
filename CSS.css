@@ -1,0 +1,40 @@
+img{
+    border-radius: 10px;
+    height: 35vh;
+    width: cover;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+
+.row{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.card{
+    padding: 5px;
+    height: 60vh;
+    width: 20vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:Outfit;
+}
+
+.para{
+    color: lightgray;
+    font-size: 14px;
+    font-family: Outfit;
+}
